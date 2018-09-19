@@ -5,7 +5,7 @@ We develop a Python source code of Expectation-Maximization (EM)-based algorithm
 This Python library was contructed based on the CEDA library, which is available on https://github.com/ptandeo/CEDA. A main testing file is named as *test_Lorenz63_EM.ipynb*. 
 
 # CITING
-Article *An efficient particle-based method for maximum likelihood parameter estimates in nonlinear state-space models* of authors "T.T.T. Chau, P. Ailliot, V. Monbet, P. Tandeo".
+Article *Simulation-based methods for uncertainty estimation in nonlinear state-space models* of authors "T.T.T. Chau, P. Ailliot, V. Monbet, P. Tandeo".
 
 # CONTACT:
 Authors: Thi Tuyet Trang Chau (thi-tuyet-trang.chau@univ-rennes1.fr) and Pierre Tandeo ( pierre.tandeo@imt-atlantique.fr)
