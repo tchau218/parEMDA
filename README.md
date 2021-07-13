@@ -6,4 +6,4 @@ This source code has been used to produce numerical results in the manuscript *C
 
 
 # CONTACT:
-Authors: TTT Chau (trang.chau@lsce.ipsl.fr, thi.tuyet.trang.chau@gmail.com), P Ailliot (pierre.ailliot@univ-brest.fr), V Monbet(valerie.monbet@univ-rennes1.fr), and P Tandeo ( pierre.tandeo@imt-atlantique.fr)
+Authors: T. T. T. Chau (trang.chau@lsce.ipsl.fr, thi.tuyet.trang.chau@gmail.com), P. Ailliot (pierre.ailliot@univ-brest.fr), V. Monbet (valerie.monbet@univ-rennes1.fr), and P. Tandeo ( pierre.tandeo@imt-atlantique.fr)
